@@ -16,3 +16,12 @@ C언어 문법에 대한 공부와 함께 코딩 문제에 대해서도 다룰 �
 만약 학습 일지의 내용 중 잘못된 부분이 있다면 부담없이 지적해주시면 감사하겠습니다.
 
 학습 일지는 **각 주차별 디렉터리 내**에 **n주차 학습일지.md**에서 확인해주시길 바랍니다.
+
+* [1주차 학습일지](https://github.com/yh08037/Ctart-point/blob/master/week1/1%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)
+* [2주차 학습일지](https://github.com/yh08037/Ctart-point/blob/master/week2/2%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)
+* [3주차 학습일지](https://github.com/yh08037/Ctart-point/blob/master/week3/3%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)
+* [4주차 학습일지](https://github.com/yh08037/Ctart-point/blob/master/week4/4%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)
+* [5주차 학습일지](https://github.com/yh08037/Ctart-point/blob/master/week5/5%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)
+* [6주차 학습일지](https://github.com/yh08037/Ctart-point/blob/master/week6/6%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)
+* [7주차 학습일지](https://github.com/yh08037/Ctart-point/blob/master/week7/7%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)
+* [8주차 학습일지](https://github.com/yh08037/Ctart-point/blob/master/week8/8%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)
