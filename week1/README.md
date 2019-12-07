@@ -8,7 +8,7 @@
 
 아래는 활동 내용의 간략한 소개입니다.
 
-자세한 내용은 **1주차 학습일지.md**을 읽어주세요.
+자세한 내용은 [**1주차 학습일지.md**](https://github.com/yh08037/Ctart-point/blob/master/week1/1%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9D%BC%EC%A7%80.md)을 읽어주세요.
 
 ## 1. C언어의 역사
 
